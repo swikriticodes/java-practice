@@ -1,7 +1,7 @@
 public class Switch {
     public static void main(String[] args)
      {
-        int day=6;
+        int day=7;
         switch(day)
         {
          case 1:
